@@ -1,4 +1,4 @@
-# Olá! Eu sou Henrique John Krug!
+# Olá! Eu sou o Henrique John Krug!
 Bem-vindo ao meu perfil de teste do GITHUB! Aqui você encontrará meus projetos, estudos e automações.
 Sou um estudante apaixonado por desenvolvimento, inteligência artificial
 e análise de dados.
